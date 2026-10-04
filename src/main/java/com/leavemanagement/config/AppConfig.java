@@ -36,7 +36,7 @@ public class AppConfig implements WebMvcConfigurer {
         ds.setDriverClassName("com.mysql.cj.jdbc.Driver");
         ds.setUrl("jdbc:mysql://localhost:3306/leave_management?createDatabaseIfNotExist=true&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true");
         ds.setUsername("root");
-        ds.setPassword("Ravi#7861");
+        ds.setPassword("1290");
         return ds;
     }
 
